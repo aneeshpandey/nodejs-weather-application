@@ -1,7 +1,3 @@
-console.log("The javascript module has loaded!")
-
-
-
 const weatherForm=document.querySelector('form')
 const search=document.querySelector('input')
 const par1=document.querySelector('#par1')
